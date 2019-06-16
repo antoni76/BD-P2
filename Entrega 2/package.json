@@ -1,0 +1,23 @@
+{
+  "name": "antonimb",
+  "version": "1.0.0",
+  "description": "Blockchain Nanodegree",
+  "main": "levelSandbox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Private",
+    "Blockchain",
+    "Udacity",
+    "2nProject"
+  ],
+  "author": "Antoni Martin",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "flag": "^3.0.0-1",
+    "install": "^0.12.2",
+    "level": "^4.0.0"
+  }
+}
